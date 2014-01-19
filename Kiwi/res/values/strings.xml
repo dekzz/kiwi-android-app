@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="app_name">Kiwi</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Kiwi</string>
+    
+    <string name="login_button">Enter</string>
+    <string name="welcome_picture">Welcome Picture of a kiwi</string>
+    <string name="logo_description">kiwi application logo image</string>
+    
+    <string name="add_service">service name</string>
+    <string name="add_username_or_email">username/email</string>
+    <string name="description">Enter your account credentials!</string>
+    <string name="add_password">password</string>
+    <string name="save_credentials_button">Save</string>
+    <string name="replicate_checkbox">Replicate to cloud</string>
+    <string name="icon_credentials">credentials icon</string>
+    <string name="icon_service_name">service name icon</string>
+    <string name="icon_username">username icon</string>
+    <string name="icon_password">password icon</string>
+    <string name="icon_save">save icon</string>
+    <string name="favicon_service">serice favicon</string>
+    <string name="star_string">*</string>
+    <string name="db_reset">DB reset</string>
+    
+    <string name="service">service</string>
+    <string name="add">add service</string>
+    
+    <string name="help_welcome">Welcome to KiWi\'s nest!</string>
+    <string name="help_intro">Our fruity bird will keep your credentials data warm and safe
+        						from cold and harsh claws of predator!</string>
+    <string name="help_app">It\'s faster than light, lighter than cloud, and (almost) stroger than universe!</string>
+    <string name="help_tips">Here\'s some info:</string>
+    <string name="help_auto_login">You can add as many services as you want and you are able
+        							 to auto-login in predefined web sites.</string>
+    <string name="help_edit_delete">To redefine/abandon item :( long cluck it</string>
+    <string name="help_pass">Yaa passwds are safe and encrypted, don\'t ya worrey lil fella!</string>
+    <string name="help_contact">eMail support will be available soon, and in meantime
+    								all you birds in need of cozy nest, try to find us! ;)</string>
+    <string name="help_thanks">KWI KWI (we\'re thanking you)</string>
+    <string name="help_outro">-the kiwi family-</string>								
+    
+</resources>
